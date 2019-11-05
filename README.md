@@ -146,25 +146,37 @@ External dependences (into planned system).
 |-|-|-|-|-|
 | My name | senior developer | Eurecat (Spain) | myemail@example.com | 99 999 99 99 99 (1234) |
 
+[Return](#table-of-contents)
 
 ## Kanban
 
+Link to.
+
+[Return](#table-of-contents)
 
 ## Tasks list
 
+Link to.
 
+[Return](#table-of-contents)
 
 # Continuos Integration
 
 Jenkins jobs...
 
+[Return](#table-of-contents)
+
 # Sonar
 
 ?
 
+[Return](#table-of-contents)
+
 # Tagging
 
 How can I get current version in a deployment?
+
+[Return](#table-of-contents)
 
 # Documentation
 
@@ -172,10 +184,16 @@ Links to support your knowledge about the project.
 
 Wikipedia links...
 
+[Return](#table-of-contents)
+
 # Appendix
 
 Code snippets...
 
+[Return](#table-of-contents)
+
 # Bibliography
 
 External used references.
+
+[Return](#table-of-contents)
