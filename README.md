@@ -74,7 +74,7 @@ Gradle tasks, Maven tasks, shellscripts, Flyway, Makefile, npm...
 
 Accessibility:
 
-| ID             | IP      | Opened ports                      | Notes |
+| Name           | IP      | Opened ports                      | Notes |
 | -------------- | ------- | --------------------------------- | ----- |
 | Testing        | x.x.x.x | all.                              | -     |
 | Integration    | x.x.x.x | 22 (ssh), 443 (https), 80 (http). | -     |
@@ -195,5 +195,7 @@ Code snippets...
 # Bibliography
 
 External used references.
+
+* [Readme template](https://github.com/ott1982/readme).
 
 [Return](#table-of-contents)
