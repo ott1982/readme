@@ -55,7 +55,7 @@ Jenkins jobs?
 
 ...
 
-# Apendix
+# Appendix
 
 ## something...
 
